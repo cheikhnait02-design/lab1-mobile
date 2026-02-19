@@ -11,6 +11,9 @@ verification reseau
 ![mobile2](mobile2.png)
 verification reseau route internet
 ![mobile3](mobile3.png)
+creation de snapshot
+![snapshot](snapshot.png)
+
 
 
 
