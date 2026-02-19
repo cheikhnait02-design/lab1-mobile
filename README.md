@@ -9,6 +9,9 @@ connexion a mobile
 ![mobil](mobil.png)
 verification reseau
 ![mobile2](mobile2.png)
+verification reseau route internet
+![mobile3](mobile3.png)
+
 
 
 
