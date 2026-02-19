@@ -7,5 +7,9 @@ adapter 2
 ![adapter 2](adapter2.png)
 connexion a mobile
 ![mobil](mobil.png)
+verification reseau
+![mobile2](mobile2.png)
+
+
 
 
