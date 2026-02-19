@@ -13,7 +13,7 @@ verification reseau route internet
 ![mobile3](mobile3.png)
 creation de snapshot
 ![snapshot](snapshot.png)
-
+a èpropos l etape 6 je peux pas la realliser car je possede pas une cible android mes j ai bien compris le fonctionnement de l etape 6
 
 
 
